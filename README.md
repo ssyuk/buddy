@@ -1,1 +1,1 @@
-# buddy
+# Buddy Issue Tracker
